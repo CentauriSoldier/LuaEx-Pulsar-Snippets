@@ -1,0 +1,13 @@
+{
+  "name": "luaex-snippets",
+  "main": "",
+  "version": "0.1.0",
+  "description": "Common LuaEx code snippets for Pulsar editor.",
+  "keywords": ["lua", "snippets"],
+  "author": "Centauri Soldier (https://github.com/CentauriSoldier)",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/CentauriSoldier/LuaEx-Pulsar-Snippets"
+  },
+  "license": "The Unlicense"
+}

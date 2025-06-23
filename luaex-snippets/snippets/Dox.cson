@@ -1,0 +1,13 @@
+'.source.lua':    
+    'Dox Function Comment':
+      'prefix': 'doxfunction'
+      'body': """
+        --[[!
+            @fqxn
+            @desc
+            @param type name comment
+            @ret type name comment
+            @pulsarlua type name
+            @ex example
+        --!]]
+      """
